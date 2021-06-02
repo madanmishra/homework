@@ -55,6 +55,7 @@ This is a express scaffold project to quickly get up and running with express js
 `step 1:` Change directory to project folder
 
 ```sh
+git clone cloning url
 $ cd homework
 ```
 
