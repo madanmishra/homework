@@ -1,3 +1,6 @@
+/*
+This module will import data from data.json to dynamodb Table
+*/
 const AWS = require("aws-sdk");
 const fs = require('fs');
 AWS.config.update({

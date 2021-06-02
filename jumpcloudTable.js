@@ -1,3 +1,6 @@
+/* 
+This module will create Dynamodb Table locally 
+*/
 const AWS = require("aws-sdk");
 AWS.config.update({
     region: "local",
