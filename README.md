@@ -89,3 +89,5 @@ $ npm start
 $ npm test
 ```
 
+Please change the actions and time in data.json and perform step 4 and step 5 again to see new updated values
+
