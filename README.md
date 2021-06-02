@@ -82,3 +82,10 @@ $ node putjumpCloudData.js
 ```sh
 $ npm start
 ```
+
+`step 6:` Open New Terminal run 
+
+```sh
+$ npm test
+```
+
