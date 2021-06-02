@@ -1,0 +1,6 @@
+[
+    { "action": "jump", "time": 100 },
+    { "action": "run", "time": 75 },
+    { "action": "jump", "time": 200 }
+]
+
